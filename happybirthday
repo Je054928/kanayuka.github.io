@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+  <head>
+    <meta charset="UTF-8">
+    <title>輝いてる貴方へ</title>
+    <style>
+        body{background-color:#ECC5C0;
+             font-size:18px;
+             font-family:'times new roman','hiragino','meiryo',sans-serif;
+             color:darkslategrey;
+            }
+        header{
+               width: 1240px;
+               margin: 0 auto 44px;
+              }
+        img{
+            width:1240px;
+            height:500px;
+            border-radius:350px;
+           }
+        h1{font-size:20px;
+            border-radius:500px;
+            text-align: center;
+            padding:20px 0;
+            margin:20px 0 auto;
+            width: 200px;
+            text-align: center;
+          }
+        header nav ul{
+                      display: flex;
+                      justify-content: center;
+                      border-top:2px solid #52595D;
+                      border-bottom:2px solid #52595D;
+                      background-color:rgba(255,255,255,0.42);
+                      padding: 12px 0px 10px;
+                     }
+        header nav ul li{
+                         margin: 0 20px;
+                        }
+        header nav ul li a {
+                            font-size: 22px;
+                            font-weight: bold;
+                            color:#8D918D;
+                           }
+        header nav ul li a:hover{
+                                 text-decoration: underline wavy;
+                                }
+        h2{font-size:20px;
+            border:5px solid #34282c;
+            border-radius:100px;
+            padding:6px 0;
+            margin:20px 0 auto;
+            width: 200px;
+            text-align: center;
+          }
+        main{
+             flex-basis: 920px;
+             background-color:#98AFC7;
+             border-radius: 16px;
+             padding: 62px 72px 32px 72px;
+             box-shadow:0px 0px 8px rgba(0,0,0,0.16);
+            }
+        aside{
+              flex-basis: 284px;
+             }
+        p{font-size:15px;
+          border:3px double #3a3b3c;
+          border-radius:4px;
+          padding:25px 0;
+          margin:20px 0;
+          width:500px ;
+          text-align: center;
+         }
+        div{
+            width: 1240px;
+            margin: 0 auto 50px;
+            display: flex;
+           }
+    </style>
+
+  </head>
+  <body>
+    <header>
+        <h1>
+            <img src="back.png" alt="happybirthday">
+        </h1>
+        <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">MESSAGE</a></li>
+                <li><a href="#">MEMORY</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div>
+    <main>
+        <article>
+    <h2>初めて出会った日</h2>
+    <section>
+    <p>デパートでアルバイトして<br>
+        一人でお客様待っていた<br>
+        すごくつまらない時に<br>
+        君が目の前に出てきた<br>
+        それが初めての出会い<br></p>
+    </section>
+    <sectoin>
+    <p>見知りもない人だけど<br>
+        なんだかいい予感が出ると思ってた<br>
+        話しながら、あーまだこの人ともっと話したいなー<br>
+        って勇気を出して<br>
+        LINEを始めた日から<br>
+        私の好きで大事な人になってきた<br></p>
+    </sectoin>
+    <section>
+    <p>ずっとまた会いたいなーて<br>
+        日本に会いに行くよって約束して<br>
+        ようやく2023年の10月愛(会い)に行った<br>
+        楽しかった時間だわ<br>
+        由佳ちゃんと会って幸せ🌻🌻<br>
+        もちろん、智也さんも会えて嬉しかったよ（笑）<br>
+        悲しい時も嬉しい時も<br>
+        一緒に過ごしたいと思ってる<br>
+        可愛くて、優しい由佳ちゃんに<br>
+        <strong>「お誕生日、おめでとう！！💙」</strong><br>
+        これからよろしくお願いします<br></p>
+    </section>
+        </article>
+        <aside>
+            <nav>
+                <h3>LOVE NOTE</h3>
+            </nav>
+        </aside>
+    </div>
+        <footer>
+            <p>2024 for my pretty girl</p>
+        </footer>
+    </main>
+  </body>
+</html>
